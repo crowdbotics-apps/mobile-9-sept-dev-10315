@@ -64,7 +64,7 @@ export class _Blank extends React.Component {
         textStyle={{
           fontSize: 12,
           color: "#000000",
-          textAlign: "center",
+          textAlign: "right",
           fontFamily: "Roboto-Regular"
         }}
         style={{
@@ -78,7 +78,7 @@ export class _Blank extends React.Component {
           paddingTop: 5,
           paddingBottom: 5,
           overflow: "visible",
-          textAlign: "center",
+          textAlign: "right",
           verticalAlign: "baseline",
           fontSize: 12,
           color: "#000000",
